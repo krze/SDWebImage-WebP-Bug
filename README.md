@@ -1,1 +1,1 @@
-# SDWebImage-WebP-Bug
+# SDWebImage-WebP-bug
